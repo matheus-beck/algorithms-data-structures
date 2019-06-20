@@ -1,2 +1,2 @@
-# Exercicios resolvidos de problemas de computação utilizando C
-Algoritmos implementados em C para a disciplina Estrutura de Dados e Algoritmos I da UFBA
+# Solutions for computing exercises using C
+Algorithms implemented in C for the discipline MATA40 - ALGORITHMS AND DATA STRUCTURES I at UFBA
